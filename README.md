@@ -12,8 +12,8 @@
 ## 🌐 线上动态交互演练 (Live Demo)
 > **💡 核心亮点：** 本项目已成功部署至云端，评审专家与读者无需配置 Python 环境，点击下方链接即可在浏览器中直接体验多维标签悬停、专业动态筛选等高阶交互：
 
-* 🔗 **[https://zyf05.github.io/hpu-2026-postgraduate-vision/postgraduate_analysis.html] 线上交互散点回归矩阵 (图 1.1)** *(注：进入网页后，请将鼠标悬停在点簇或黑色趋势线上查看动态统计公式)*
-* 🔗 **[https://zyf05.github.io/hpu-2026-postgraduate-vision/postgraduate_boxplot.html] 线上交互全样本沙盘箱线图 (图 1.2)**
+* 🔗 **https://zyf05.github.io/hpu-2026-postgraduate-vision/postgraduate_analysis.html 线上交互散点回归矩阵 (图 1.1)** *(注：进入网页后，请将鼠标悬停在点簇或黑色趋势线上查看动态统计公式)*
+* 🔗 **https://zyf05.github.io/hpu-2026-postgraduate-vision/postgraduate_boxplot.html 线上交互全样本沙盘箱线图 (图 1.2)**
 
 ---
 
