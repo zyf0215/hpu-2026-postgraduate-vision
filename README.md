@@ -1,5 +1,5 @@
 # hpu-2026-postgraduate-vision
-hpu-2026-postgraduate-vision
+
 # 📊 基于 2026 河南理工大学考研数据的成绩回归分析与多维交互可视化系统
 
 ## 📖 项目故事 (Our Story)
@@ -20,7 +20,7 @@ hpu-2026-postgraduate-vision
 ## 🛠️ 本地工程运行指南 (Getting Started)
 1. 将本仓库克隆或下载到本地。
 2. 确保本地安装了运行环境：`pip install pandas numpy plotly scikit-learn openpyxl`
-3. 运行核心控制程序：`python 你的代码文件名.py`
+3. 运行核心控制程序：`hpu_postgraduate.py`
 
 ---
-*✨ 本项目为 [你的名字] 的期末大作业优秀冲刺作品，数据源自官方公示，并已对隐私信息进行脱敏处理。*
+*✨ 本项目为 张一凡 的期末大作业作品，数据源自官方公示，并已对隐私信息进行脱敏处理。*
